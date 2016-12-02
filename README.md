@@ -4,7 +4,7 @@ de tornado con el microframework Flask
 
 como funciona?
 
-lo que hacer la corutine de tornado es enviar un mensaje en broadcast cada vez
+lo que hace la coruutine de tornado es enviar un mensaje en broadcast cada vez
 que se ejecuta un cambio en la base de datos
 
 primero instalar rethinkdb 2.3.0

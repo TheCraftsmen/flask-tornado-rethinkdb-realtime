@@ -1,8 +1,3 @@
-"""Flasknado! - A simple example of using Flask and Tornado
-together.
-
-"""
-
 from __future__ import print_function
 from flask import Flask, render_template
 from tornado.wsgi import WSGIContainer
